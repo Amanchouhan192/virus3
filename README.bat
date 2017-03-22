@@ -1,4 +1,4 @@
-# play game mario 
+# play game mario good game
 oooohhhhhhhh.. this type of file can shut your computer down
 
 @echo off
